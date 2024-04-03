@@ -1,0 +1,17 @@
+{
+    "name": "vendor/composer",
+    "autoload": {
+        "psr-4": {
+            "Vendor\\Composer\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "aterence",
+            "email": "azertye92@gmail.com"
+        }
+    ],
+    "require": {
+        "fakerphp/faker": "^1.23"
+    }
+}
